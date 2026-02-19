@@ -17,7 +17,7 @@ Then copy the files to Infdev (2010-2-27) jar and replace it.
 
 **Don't forget to delete META-INF when you got a SecurityError**
 
-Also, you can download the already [patched version](https://github.com/CreatorCSIE/Infdev227-Float-Precision-Fix/releases), which includes SinglePlayerCommand.
+Also, you can download the already [patched version](https://github.com/CreatorCSIE/Infdev227-Float-Precision-Fix/releases), which includes SinglePlayerCommand. (This allows you to use Teleport function without patching RetroWrapper.)
 
 ## Single Player Command?
 
@@ -25,9 +25,9 @@ You should install **Single Player Command** first and then use the patch.
 
 ## Technological things
 
-See [Technological things](Tech.md) or [Chinese Version](Tech-ZH.md).
+See [Technological blogs](Tech.md).
 
 # Credits
 * [GLM-5](https://github.com/zai-org/GLM-5) (Technological Support)
-* [RetroMCP](https://github.com/Blizzardfur-Maxxx/RetroMCP-Java-Unofficial) (Pack things to jar)
+* [RetroMCP](https://github.com/Blizzardfur-Maxxx/RetroMCP-Java-Unofficial) (Decompile Minecraft and pack things to jar)
 * CreatorCSIE (Upload)
