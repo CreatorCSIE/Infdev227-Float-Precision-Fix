@@ -129,16 +129,7 @@ EntityFX.interpPosZ = player.prevRenderZ + (player.posZ - player.prevRenderZ) * 
 
 **Effect**: Particles render correctly at large coordinates.
 
-### 5. Sky and Cloud Rendering Fix
-
-**File**: `RenderGlobal.java`
-
-- Removed player position offset from sky rendering, making sun/moon render relative to world origin
-- Cloud height dynamically calculated based on player Y coordinate
-
-**Effect**: Sky and clouds render correctly at any coordinate position.
-
-### 6. Selection Box Rendering Fix
+### 5. Selection Box Rendering Fix
 
 **File**: `RenderGlobal.java`
 
