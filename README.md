@@ -17,7 +17,7 @@ Then copy the files to Infdev (2010-2-27) jar and replace it.
 
 **Don't forget to delete META-INF when you got a SecurityError**
 
-Also, you can download the already [patched version](https://github.com/CreatorCSIE/Infdev227-Float-Precision-Fix/releases), which includes SinglePlayerCommand. (This allows you to use Teleport function without patching RetroWrapper.)
+Also, you can download the already [patched version](https://github.com/CreatorCSIE/Infdev227-Float-Precision-Fix/releases), which includes SinglePlayerCommand. (This allows you to use Teleport function without RetroWrapper patching.)
 
 ## Single Player Command?
 
