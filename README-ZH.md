@@ -25,7 +25,7 @@
 
 ## 技术报告
 
-见 [技术报告](Tech.md)。
+见 [技术报告（英文）](Tech.md)或[技术报告（中文）](Tech-ZH.md)。
 
 # Credits
 * [GLM-5](https://github.com/zai-org/GLM-5) （技术支持）

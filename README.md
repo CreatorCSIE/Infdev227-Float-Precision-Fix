@@ -25,7 +25,7 @@ You should install **Single Player Command** first and then use the patch.
 
 ## Technological things
 
-See [Technological blogs](Tech.md).
+See [Technological blogs](Tech.md) or [Chinese version](Tech-ZH.md).
 
 # Credits
 * [GLM-5](https://github.com/zai-org/GLM-5) (Technological Support)
