@@ -1,7 +1,5 @@
-# Minecraft 远距离渲染修复总结
-# Minecraft Long Distance Rendering Fix Summary
-# 由GLM-5总结
-# Summarized by GLM-5
+# Minecraft 远距离渲染修复总结（由GLM-5总结）
+# Minecraft Long Distance Rendering Fix Summary (Summarized by GLM-5)
 
 ---
 
