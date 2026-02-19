@@ -9,7 +9,7 @@
 现在游戏已经没有渲染问题，除非X/Z>33554432。
 
 ## 下载
-你可以从下载源代码来获取补丁（不推荐）
+你可以从下载源代码来获取补丁（不推荐）。
 
 像这样： `git clone https://github.com/CreatorCSIE/Infdev227-Float-Precision-Fix.git`
 
@@ -19,13 +19,13 @@
 
 你也可以下载已打补丁的 [版本](https://github.com/CreatorCSIE/Infdev227-Float-Precision-Fix/releases), 其中包含SinglePlayerCommand，无需再打RetroWrapper以添加坐标修改器。
 
-## Single Player Command?
+## Single Player Command（单人指令）?
 
 你应该先安装 **Single Player Command**，然后再使用这个补丁。
 
-## Technological things
+## 技术报告
 
-见 [技术报告（英语）](Tech.md)
+见 [技术报告](Tech.md)。
 
 # Credits
 * [GLM-5](https://github.com/zai-org/GLM-5) （技术支持）
