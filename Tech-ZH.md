@@ -129,16 +129,7 @@ EntityFX.interpPosZ = player.prevRenderZ + (player.posZ - player.prevRenderZ) * 
 
 **效果**：粒子在大坐标位置正确渲染。
 
-### 5. 天空和云渲染修复
-
-**文件**: `RenderGlobal.java`
-
-- 移除天空渲染中的玩家位置偏移，使太阳/月亮相对于世界原点渲染
-- 云的高度根据玩家 Y 坐标动态计算
-
-**效果**：天空和云在任何坐标位置都正确渲染。
-
-### 6. 碰撞箱渲染修复
+### 5. 碰撞箱渲染修复
 
 **文件**: `RenderGlobal.java`
 
@@ -165,7 +156,6 @@ public void drawSelectionBox(MovingObjectPosition target, int pass, float partia
 | 碰撞箱变形 | X/Z > 65,536 | 基本解决 |
 | 粒子偏移 | 所有距离 | 完全解决 |
 | 天空渲染 | X/Z > 1,024 | 完全解决 |
-| 云层跟随玩家 | 所有距离 | 完全解决 |
 
 ## 技术原理总结
 
