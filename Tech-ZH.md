@@ -155,7 +155,6 @@ public void drawSelectionBox(MovingObjectPosition target, int pass, float partia
 | 纹理拉伸 | X/Z > 16,777,216 | 大幅改善 |
 | 碰撞箱变形 | X/Z > 65,536 | 基本解决 |
 | 粒子偏移 | 所有距离 | 完全解决 |
-| 天空渲染 | X/Z > 1,024 | 完全解决 |
 
 ## 技术原理总结
 
