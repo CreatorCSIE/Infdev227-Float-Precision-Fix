@@ -155,8 +155,6 @@ public void drawSelectionBox(MovingObjectPosition target, int pass, float partia
 | Texture stretching | X/Z > 16,777,216 | Significantly improved |
 | Hitbox deformation | X/Z > 65,536 | Mostly resolved |
 | Particle offset | All distances | Fully resolved |
-| Sky rendering | X/Z > 1,024 | Fully resolved |
-| Clouds following player | All distances | Fully resolved |
 
 ## Technical Principles Summary
 
